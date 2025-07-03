@@ -7,8 +7,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:2660,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:100,ATV FHD
-https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8
 #EXTINF:2650,SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:2560,KANAL 7 FHD
